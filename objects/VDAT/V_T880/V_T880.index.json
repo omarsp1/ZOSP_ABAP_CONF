@@ -1,0 +1,22 @@
+[
+ {
+  "table":"T880",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"RCOMP",
+      "value":"I05"
+     }
+    ],
+    "hash":"j5eoeVo5NU0j7wuCc0KfJze2W18="
+   }
+  ]
+ }
+]

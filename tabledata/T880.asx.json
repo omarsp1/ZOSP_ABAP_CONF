@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"I05",
+    "NAME1":"I05 Company",
+    "CNTRY":"AQ",
+    "NAME2":"",
+    "LANGU":"E",
+    "STRET":"Somewhere",
+    "POBOX":"",
+    "PSTLC":"12345",
+    "CITY":"Else",
+    "CURR":"",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
